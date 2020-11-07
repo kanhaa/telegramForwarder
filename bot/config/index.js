@@ -5,7 +5,7 @@ const config = {
   AGENT_PORT: process.env.AGENT_PORT || 3000,
   TG: {
     TG_API_KEY: process.env.TG_API_KEY,
-    TG_BOT_USERNAME: process.env.TG_BOT_USERNAME,
+    TG_BOT_USERNAME: process.env.Post_Redirecterbot,
   },
   APP: {
     FREE_USER: {

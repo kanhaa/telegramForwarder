@@ -1,6 +1,6 @@
 FROM node:lts-jessie
 
-RUN apt-get update 
+RUN apt-get update
 
 WORKDIR /usr/src/telegram-forwarder/bot
 
